@@ -19,7 +19,6 @@ export const Title = styled.h1`
 
 export const Form = styled.form<FormProps>`
   margin-top: 40px;
-  max-width: 700px;
 
   display: flex;
 
@@ -74,7 +73,6 @@ export const Error = styled.span`
 
 export const RepositoryList = styled.div`
   margin-top: 80px;
-  max-width: 700px;
 
   a {
     background: #fff;
